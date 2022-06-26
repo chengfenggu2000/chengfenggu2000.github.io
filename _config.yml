@@ -23,10 +23,10 @@ email: chengfenggu2000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Here is Cheng-feng's personal Github page. I am now a second year engnieering 
   student in Mines Paris-PSL. I am going to post some of my new learned 
-  "take home knowlege" on market microstructure, some news reviews, and also
+  "take home knowledge" on market microstructure, some news reviews, and also
   my math related work.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://chengfenggu2000.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FelixGu2000
 github_username:  chengfenggu2000
 
