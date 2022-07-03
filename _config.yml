@@ -22,9 +22,8 @@ title: Cheng-Feng GU's page
 email: chengfenggu2000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Here is Cheng-feng's personal Github page. I am now a second year engnieering 
-  student in Mines Paris-PSL. I am going to post some of my new learned 
-  "take home knowledge" on market microstructure, some news reviews, and also
-  my math related work.
+  student in Mines Paris-PSL. I am going to post my new learned 
+  "take home knowledge" and personal thinking here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FelixGu2000
